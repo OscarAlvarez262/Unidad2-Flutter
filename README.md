@@ -52,10 +52,3 @@ Para ejecutar las prácticas se necesita:
 * Android Studio o un entorno compatible.
 * Un dispositivo Android físico o un emulador.
 * Un editor de código como Visual Studio Code o Android Studio.
-
-## 👨‍💻 Autor
-
-**Oscar Alvarez**
-
-Repositorio:  
-https://github.com/OscarAlvarez262/Unidad2-Flutter
